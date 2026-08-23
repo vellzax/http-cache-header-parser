@@ -1,0 +1,1 @@
+function parseCache(h) { return h ? h.split(',') : []; } module.exports = { parseCache };
